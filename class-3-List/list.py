@@ -4,7 +4,7 @@
 #storing based on indexing  / Negative indexing also possible
 #Insertion order maintained
 # List is a itterable object
-# List id a Mutable     ###
+# List id a Mutable  List/set/dict/bytes   ###
 
 #create
 L1=[]
