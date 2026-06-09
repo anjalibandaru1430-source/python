@@ -20,3 +20,5 @@ print(t2)
 print(t3)
 
 #we cant update and delete tuple elements
+unames=("Rahul","Rohit","Rakesh")
+unames[0]="Rahul"
