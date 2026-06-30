@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Anjali Bandaru",
+    "age": 22,
+    "gender": "Female",
+    "course": "Computer Science Engineering",
+    "year": "Final Year",
+    "email": "anjali.bandaru@example.com",
+    "phone": "9876543210",
+    "city": "Hyderabad",
+    "cgpa": 8.9
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "age": 21,
+    "gender": "Male",
+    "course": "Information Technology",
+    "year": "Third Year",
+    "email": "rahul.sharma@example.com",
+    "phone": "9876543211",
+    "city": "Bengaluru",
+    "cgpa": 8.5
+  },
+  {
+    "id": 3,
+    "name": "Priya Reddy",
+    "age": 20,
+    "gender": "Female",
+    "course": "Electronics and Communication",
+    "year": "Second Year",
+    "email": "priya.reddy@example.com",
+    "phone": "9876543212",
+    "city": "Vijayawada",
+    "cgpa": 9.1
+  },
+  {
+    "id": 4,
+    "name": "Arjun Kumar",
+    "age": 22,
+    "gender": "Male",
+    "course": "Mechanical Engineering",
+    "year": "Final Year",
+    "email": "arjun.kumar@example.com",
+    "phone": "9876543213",
+    "city": "Chennai",
+    "cgpa": 8.2
+  },
+  {
+    "id": 5,
+    "name": "Sneha Patel",
+    "age": 21,
+    "gender": "Female",
+    "course": "Civil Engineering",
+    "year": "Third Year",
+    "email": "sneha.patel@example.com",
+    "phone": "9876543214",
+    "city": "Pune",
+    "cgpa": 8.7
+  },
+  {
+    "id": 6,
+    "name": "Kiran Rao",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science Engineering",
+    "year": "Final Year",
+    "email": "kiran.rao@example.com",
+    "phone": "9876543215",
+    "city": "Hyderabad",
+    "cgpa": 9.0
+  },
+  {
+    "id": 7,
+    "name": "Meena Iyer",
+    "age": 20,
+    "gender": "Female",
+    "course": "Artificial Intelligence",
+    "year": "Second Year",
+    "email": "meena.iyer@example.com",
+    "phone": "9876543216",
+    "city": "Coimbatore",
+    "cgpa": 9.3
+  },
+  {
+    "id": 8,
+    "name": "Vikram Singh",
+    "age": 22,
+    "gender": "Male",
+    "course": "Data Science",
+    "year": "Final Year",
+    "email": "vikram.singh@example.com",
+    "phone": "9876543217",
+    "city": "Delhi",
+    "cgpa": 8.8
+  },
+  {
+    "id": 9,
+    "name": "Pooja Verma",
+    "age": 21,
+    "gender": "Female",
+    "course": "Computer Science Engineering",
+    "year": "Third Year",
+    "email": "pooja.verma@example.com",
+    "phone": "9876543218",
+    "city": "Mumbai",
+    "cgpa": 8.6
+  },
+  {
+    "id": 10,
+    "name": "Rohit Das",
+    "age": 22,
+    "gender": "Male",
+    "course": "Cyber Security",
+    "year": "Final Year",
+    "email": "rohit.das@example.com",
+    "phone": "9876543219",
+    "city": "Kolkata",
+    "cgpa": 8.4
+  }
+]
