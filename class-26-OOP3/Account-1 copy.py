@@ -27,6 +27,6 @@ class Account:
 a1=Account(101,'RG',5000)
 a2=Account(102,'SG',25000)
 
-#print(Account.__dict__)
-#print(a1.__dict__)
-#print(a2.__dict__)
+print(Account.__dict__)
+print(a1.__dict__)
+print(a2.__dict__)
