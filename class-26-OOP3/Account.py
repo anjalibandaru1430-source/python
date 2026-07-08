@@ -34,7 +34,7 @@ print(a1.__dict__)
 print(a2.__dict__)
 
 a1.deposit(500)
-print("*****************")
+print("***************")
 
 print(a1.acc_bal)
 print(a2.acc_bal)
@@ -42,7 +42,7 @@ print(a2.acc_bal)
 print("Withdrawl")
 a2.withdrawl(5500)
 print(a2.acc_bal)
-print("***************** ")
+print("*************** ")
 print(a1.get_bal())
 print(a2.get_bal())
 
