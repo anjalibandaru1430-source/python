@@ -1,0 +1,13 @@
+emp={
+    'eid':101,
+    'ename':'Rahul',
+    'esal':45000.45,
+    'loc':['wayanad','ND'],
+    'avail':False,
+    'gender':'Male'
+}
+print(emp['eid'])
+print(emp['ename'])
+print(emp['loc'])
+print(emp['gender'])
+print(emp['discount'])
