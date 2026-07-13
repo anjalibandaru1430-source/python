@@ -9,6 +9,12 @@ def smart_dev(func):
 #@smart_dev
 def division(a,b):
     print(a/b)
-    print("hello world")
+    print("hellomyworld")
 
 division(10,2)
+
+def division(a,b):
+    print(a/b)
+    print("hellomyworld")
+
+division(10,5)
