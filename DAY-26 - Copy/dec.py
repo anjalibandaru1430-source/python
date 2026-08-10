@@ -7,8 +7,9 @@ def smart_dev(func):
     return inner
 
 #@smart_dev
+
 def division(a,b):
-    print(a/b)
+    print(a*b)
     print("hello world")
 
 division(10,2)
