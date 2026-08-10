@@ -10,6 +10,6 @@ def smart_dev(func):
 
 def division(a,b):
     print(a*b)
-    print("hello world")
+    print("hi world")
 
 division(10,2)
