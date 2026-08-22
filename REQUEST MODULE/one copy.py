@@ -14,3 +14,11 @@ print(status_code)
 
 for user in users:
     print(users)
+
+'''
+Usage: fetch Users
+Rest API URL: https://jsonplaceholder.typicode.com/users
+Method Type:GET
+Req Fields: None
+Access Type:Public
+'''
