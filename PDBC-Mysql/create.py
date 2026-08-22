@@ -1,5 +1,4 @@
 import mysql.connector
-
 try:
     dbcon=mysql.connector.connect(host='localhost',
                                   user='root',
@@ -18,7 +17,7 @@ try:
             '''
     cursor.execute(sql_st)
     dbcon.commit()
-    print("New Table Created successfully")
+    print("New Tables Created successfully")
 
 except Exception as e:
     print(e)
