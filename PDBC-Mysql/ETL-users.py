@@ -36,7 +36,7 @@ try:
             '''
     cursor.executemany(sql_st,new_users)
     dbcon.commit()
-    print("User Dat inserted successfully")
+    print("User Data inserted successfully")
 except Exception as err:
     print(err)
 
