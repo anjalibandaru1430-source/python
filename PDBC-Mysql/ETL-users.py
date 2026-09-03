@@ -8,6 +8,7 @@ Access Type:Public
 '''
 
 #Extract
+
 import requests,mysql.connector
 user_resp=requests.get('https://jsonplaceholder.typicode.com/users')
 users=user_resp.json()
@@ -35,7 +36,7 @@ try:
             '''
     cursor.executemany(sql_st,new_users)
     dbcon.commit()
-    print("User Data inserted successfully")
+    print("User Dat inserted successfully")
 except Exception as err:
     print(err)
 
