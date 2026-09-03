@@ -44,3 +44,11 @@ Method Type:GET
 Req Fields: None
 Access Type:Publi
 '''
+
+'''
+Usage: fetch Users
+Rest API URL: https://jsonplaceholder.typicode.com/users
+Method Type:GET
+Req Fields: None
+Access Type:Publi
+'''
