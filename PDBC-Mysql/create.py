@@ -17,7 +17,7 @@ try:
             '''
     cursor.execute(sql_st)
     dbcon.commit()
-    print("New Tables Created successfully")
+    print("New Tables Created successfull")
 
 except Exception as e:
     print(e)
